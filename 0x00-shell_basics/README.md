@@ -13,3 +13,4 @@
 12-file_type prints the file type.
 13-symbolic_link creates symbolic link to /bin/sh.
 14-copy_html copies html files to the parent of the working directory.
+100-lets_move moves all files beginnning with a capital letter.
