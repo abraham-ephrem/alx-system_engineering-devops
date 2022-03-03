@@ -4,4 +4,6 @@
 3--listfiles Lists files in the directory.
 4-listmorefiles lists files including hidden ones.
 5-listfilesdigitonly lists files with only numbers.
-6-firstdirectory creates a directory inside the tmp folder`
+6-firstdirectory creates a directory inside the tmp folder.
+7-movethatfile move betty from tmp to tmp/my_first_directory.
+8-firstdelete deletes betty from tmp/my_first_directory.
