@@ -11,3 +11,4 @@
 10-back goes back to the previous directory.
 11-lists list files in three directories.
 12-file_type prints the file type.
+13-symbolic_link creates symbolic link to /bin/sh.
