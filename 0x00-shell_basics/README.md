@@ -12,3 +12,4 @@
 11-lists list files in three directories.
 12-file_type prints the file type.
 13-symbolic_link creates symbolic link to /bin/sh.
+14-copy_html copies html files to the parent of the working directory.
