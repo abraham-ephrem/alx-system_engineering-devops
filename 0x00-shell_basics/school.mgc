@@ -1,2 +1,2 @@
 0 search/16 school File containing "school"
-!:m text/x-school
+!:mime -m text/x-school
