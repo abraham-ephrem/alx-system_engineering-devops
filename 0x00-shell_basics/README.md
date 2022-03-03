@@ -3,4 +3,5 @@
 2-bring_me_home changes current directory to home directory.
 3--listfiles Lists files in the directory.
 4-listmorefiles lists files including hidden ones.
-5-listfilesdigitonly lists files with only numbers.`
+5-listfilesdigitonly lists files with only numbers.
+6-firstdirectory creates a directory inside the tmp folder`
