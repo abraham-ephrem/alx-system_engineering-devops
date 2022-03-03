@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ambpr --sort=none
+ls -ampb --sort=none
