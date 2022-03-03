@@ -10,3 +10,4 @@
 9-firstdirdeletion deletes 'my_first_directory'.
 10-back goes back to the previous directory.
 11-lists list files in three directories.
+12-file_type prints the file type.
