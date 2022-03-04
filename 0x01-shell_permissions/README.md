@@ -6,3 +6,4 @@
 5-execute - Changes the execution permission for the file 'hello' only for the owner.
 6-multiple_permissions - Grants execute permissions to the file owner and group owner.
 7-everybody - Grants execute permissions to everyone.
+8-James_Bond - Grants all permissions to other users only.
