@@ -9,3 +9,4 @@
 8-James_Bond - Grants all permissions to other users only.
 9-John_Doe - Changes the permissions of the 'hello' to a specific permission.
 10-mirror_permissions - Changes the file permissions of 'hello' to be similar to 'olleh'.
+11-directories_permissions - Adds execution permission to the current dir and all sub dirs
