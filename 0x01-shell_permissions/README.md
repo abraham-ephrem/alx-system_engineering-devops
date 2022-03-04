@@ -7,3 +7,4 @@
 6-multiple_permissions - Grants execute permissions to the file owner and group owner.
 7-everybody - Grants execute permissions to everyone.
 8-James_Bond - Grants all permissions to other users only.
+9-John_Doe - Changes the permissions of the 'hello' to a specific permission.
