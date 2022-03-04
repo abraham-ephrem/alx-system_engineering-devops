@@ -13,3 +13,4 @@
 12-directory_permissions - Creates a directory with custom permissions.
 13-change_group - Changes the group owner of the file 'school'.
 100-change_owner_and_group - Change the owner and group.
+101-symbolic_link_permissions - Changes the owner of a symbolic link.
