@@ -12,3 +12,4 @@
 11-directories_permissions - Adds execution permission to the current dir and all sub dirs.
 12-directory_permissions - Creates a directory with custom permissions.
 13-change_group - Changes the group owner of the file 'school'.
+100-change_owner_and_group - Change the owner and group.
