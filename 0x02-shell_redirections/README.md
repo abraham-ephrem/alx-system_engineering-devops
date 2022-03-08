@@ -10,3 +10,4 @@
 9-duplicate_last_line - Duplicates the last line of 'iacta'
 10-no_more_js - Removes all .js files from a directory and sub-directory
 11-directories - Counts the directories
+12-newest_files - Prints new files
