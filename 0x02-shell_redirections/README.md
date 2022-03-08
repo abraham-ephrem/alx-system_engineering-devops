@@ -8,3 +8,4 @@
 7-file - Crates the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 8-cwd_state - saves the content of ls -al into a file called 'ls_cwd_content'
 9-duplicate_last_line - Duplicates the last line of 'iacta'
+10-no_more_js - Removes all .js files from a directory and sub-directory
