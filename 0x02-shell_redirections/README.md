@@ -7,3 +7,4 @@
 6-thirdline - prints the third line from the file 'iacta'
 7-file - Crates the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 8-cwd_state - saves the content of ls -al into a file called 'ls_cwd_content'
+9-duplicate_last_line - Duplicates the last line of 'iacta'
