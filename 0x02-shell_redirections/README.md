@@ -3,3 +3,5 @@
 2-hellofile - prints the content of /etc/passwd
 3-twofiles - prints the content of /etc/passwd and /etc/hosts
 4-lastlines - prints the last 10 lines of /etc/passwd
+5-firstlines - prints the first 10 lines of /etc/passwd
+6-thirdline - prints the third line from the file 'iacta'
