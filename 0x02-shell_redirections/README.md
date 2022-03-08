@@ -11,3 +11,4 @@
 10-no_more_js - Removes all .js files from a directory and sub-directory
 11-directories - Counts the directories
 12-newest_files - Prints new files
+13-unique - Prints unique files
