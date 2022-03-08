@@ -1,2 +1,2 @@
 #!/bin/baah
-grep ^[[:alpha:]] /etc/ssh/sshd_config
+grep -e "^[a-z]" /etc/ssh/sshd_config
