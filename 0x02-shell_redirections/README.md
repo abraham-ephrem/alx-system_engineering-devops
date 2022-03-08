@@ -5,3 +5,5 @@
 4-lastlines - prints the last 10 lines of /etc/passwd
 5-firstlines - prints the first 10 lines of /etc/passwd
 6-thirdline - prints the third line from the file 'iacta'
+7-file - Crates the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+8-cwd_state - saves the content of ls -al into a file called 'ls_cwd_content'
